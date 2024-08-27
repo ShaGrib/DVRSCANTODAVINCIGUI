@@ -62,7 +62,7 @@ reel_choices = [
 myapp = App()
 
 #icon converter
-icon = PhotoImage (file='MAIN/dvrscanbridge.png')
+icon = PhotoImage (file='dvrscanbridge.png')
 myapp.master.iconphoto(True, icon)
 
 #display and graphics
